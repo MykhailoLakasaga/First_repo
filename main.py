@@ -1,3 +1,6 @@
-print ("Hello World")
+#print ("Hello World")
 
-print ("Hello Git")
+#print ("Hello Git")
+
+name = 'Wendy\'s dog'
+print(name)
